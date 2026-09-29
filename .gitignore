@@ -9,3 +9,17 @@ htmlcov/
 backend/.coverage
 .coverage
 *.egg-info/
+
+# Private project-control and learning material. These exact files stay local.
+/Rules.md
+/Phases.md
+/Architecture.md
+/PRD.md
+/Design.md
+/learning.md
+/Memory.md
+/docs/Rules.md
+/docs/Phases.md
+/docs/Architecture.md
+/docs/PRD.md
+/docs/Design.md
